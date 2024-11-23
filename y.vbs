@@ -1,0 +1,1 @@
+MsgBox "S*ca", vbOKOnlyS + vbCritical
